@@ -38,15 +38,15 @@
     },
     "chat-log": false,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 8000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect-delay": 4000,
+    "max-reconnect-delay": 12000
   },
   "movement": {
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
-      "speed": 3000
+      "radius": 6,
+      "speed": 2000
     },
     "look-around": {
       "enabled": true,
