@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "nethershade.aternos.me",
+    "port": 58818,
+    "version": "1.16.5",
     "try-creative": false
   },
   "position": {
